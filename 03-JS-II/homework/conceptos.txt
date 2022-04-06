@@ -1,0 +1,2 @@
+for es una sentencia de repetición que ejecuta un bloque de de codigo una cierta cantidad de veces definida por el programador.
+`&&`, `||`, `!` son operadores lógicos que comparan dos expresiones el valor de verdad, && se refiere al operador AND, || serefiere al operador OR, ! se refiere al operador unario NOT u operador de negación;

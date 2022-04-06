@@ -1,0 +1,6 @@
+1) Una variable es como un cajoncito donde guardas algo para luego utilizarlo, pero en este cajoncito solo se puede guardar una sola cosa
+ya que si pones algo nuevamenta lo que tenias antes desaparecerá
+2) String es una serie de caracteres, que forman un texto, es un tipo de datos que se encierran entre comillas
+simples o dobles se lo conoce como cadena de caracteres.
+3)
+
