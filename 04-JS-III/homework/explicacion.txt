@@ -1,0 +1,1 @@
+un array es una coleccion de datos bajo un mismo nombre que se accede a cada una de ellas por medio de un indice.
